@@ -13,7 +13,7 @@
 
 ## Samples statistics:
 
- | SRR3414629 | SRR3414630 | SRR3414631 | SRR3414635 | SRR3414636 | SRR3414637  
+space | SRR3414629 | SRR3414630 | SRR3414631 | SRR3414635 | SRR3414636 | SRR3414637  
 --- | --- | --- | --- | --- | --- | ---   
 **Type** | reprogramming | reprogramming | reprogramming | control | control | control  
 **Reads** | 21106089 | 15244711 | 24244069 | 20956475 | 20307147 | 20385570  
