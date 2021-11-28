@@ -11,4 +11,10 @@
 ![N content](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/N_content.png)
 ![Status checks](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/Status_checks.png)
 
+## Samples statistics:
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 
