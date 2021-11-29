@@ -1,7 +1,7 @@
 # hse21_hw3
 ## Ссылки на google colab:
-### [Google colab, python](https://colab.research.google.com/drive/1SvVXprbhlzH3yp_DKVsXC3Et0TI9hAvo#scrollTo=HJOMidKiOE3n)
-### [Google colab, R](https://colab.research.google.com/drive/1XVl-1na9DpEjcML9KD2Nvfk0yWhfOIMe#scrollTo=0ICKLuNI-wzy)
+### [Google colab, python](https://colab.research.google.com/drive/1SvVXprbhlzH3yp_DKVsXC3Et0TI9hAvo?usp=sharing)
+### [Google colab, R](https://colab.research.google.com/drive/1XVl-1na9DpEjcML9KD2Nvfk0yWhfOIMe?usp=sharing)
 
 ## MultiQC report:
 ![General statistics](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/General_stats.png)
