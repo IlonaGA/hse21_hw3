@@ -29,3 +29,18 @@
 ### Pheatmap:
 ![Pheatmap](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/Pheatmap.png)
  
+### ENSMUSG00000020905.11
+![ENSMUSG00000020905.11](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/ENSMUSG00000020905_11.png)
+
+### ENSMUSG00000092586.8
+![ENSMUSG00000092586.8](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/ENSMUSG00000092586_8.png)
+
+### ENSMUSG00000040907.15
+![ENSMUSG00000040907.15](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/ENSMUSG00000040907_15.png)
+
+### ENSMUSG00000032807.5
+![ENSMUSG00000032807.5](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/ENSMUSG00000032807_5.png)
+
+### ENSMUSG00000058354.7
+![ENSMUSG00000058354.7](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/ENSMUSG00000058354_7.png)
+
