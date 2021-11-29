@@ -23,6 +23,9 @@
 **Covered Genes** | 16049609 | 11465324 | 18408851 | 16275997 | 15757580 | 15736978  
 
 ## DESeq:
+### MA-plot:
+![MA_plot](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/MA_plot.png)
 
-
+### Pheatmap:
+![Pheatmap](https://github.com/IlonaGA/hse21_hw3/blob/main/Images/Pheatmap.png)
  
